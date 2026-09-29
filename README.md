@@ -2,7 +2,7 @@
 
 A comprehensive repository of custom AI agent skills, automated workflows, and system protocols for Antigravity, DaVinci Resolve, and macOS workstations.
 
-## 📦 Installed Skills Catalog (46 Total)
+## 📦 Installed Skills Catalog (47 Total)
 
 | Trigger Command | Skill Package | Description |
 | :--- | :--- | :--- |
@@ -17,6 +17,7 @@ A comprehensive repository of custom AI agent skills, automated workflows, and s
 | **`/concise`** | [concise](./concise/SKILL.md) | Concise |
 | **`/devserver`** | [devserver](./devserver/SKILL.md) | Configures (setup mode) or launches (startup mode) the development server with dynamic port selection and log streaming. Trigger with /devserver or devserver. |
 | **`/documentation`** | [documentation](./documentation/SKILL.md) | Acts as a Systems Architect to generate deeply technical, standardized documentation reflecting the exact state of the project, with a focus on feature classification and technical optimization. Trigger with /documentation or documentation. |
+| **`/endtoend`** | [endtoend](./endtoend/SKILL.md) | Comprehensive end-to-end project execution, auditing, and GitHub deployment engine. Discovers project markdowns, executes recommended protocols, runs full /audit, prompts to confirm target GitHub repo, and handles /checkpoint, /updategit, and /mergegit. Trigger with /endtoend or endtoend. |
 | **`/external-research`** | [external-research](./external-research/SKILL.md) | Autonomous multi-vector quantitative market research engine for AI models and subagents. Executes deep macro, fundamental, sentiment, technical, and adversarial red-team passes, outputting structured evidence dossiers. Trigger with /external-research or run external-research. |
 | **`/frontend-design`** | [frontend-design](./frontend-design/SKILL.md) | Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults. |
 | **`/full-theme-builder`** | [full-theme-builder](./full-theme-builder/SKILL.md) | Centralized theme and design token system. DEFAULT LOGIC: Always use the 'Default/Teal' palette for general UI. THEME TRIGGER: Only switch to elemental palettes (Earth, Sky, Fire, Spirit, Eden, Covenant, Stone) when specifically called for by project name or user prompt. INHERITANCE: All themes must strictly follow the Typography and Icon sets defined below. |
